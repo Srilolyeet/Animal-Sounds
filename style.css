@@ -1,0 +1,30 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+.header_div{
+    background-color: darkslateblue;
+    text-color:white ;
+    p{
+        letter-spacing: 2px;
+        font-size: 12px;
+        font-weight: bold;  
+    }
+}
+.voitection button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    }
+.right_ooter{
+    position:fixed
+    color #6c757d
+    bottom : 0;
+    width :100%;
+    font_size:18px;
+    background-color #f5f5f5
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151,149,149)
+}
