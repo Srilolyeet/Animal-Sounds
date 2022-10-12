@@ -4,7 +4,7 @@ body{
 }
 .header_div{
     background-color: darkslateblue;
-    text-color:white ;
+    text_color:white ;
     p{
         letter-spacing: 2px;
         font-size: 12px;
